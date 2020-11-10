@@ -2,12 +2,15 @@
     background-color:#871b1b;
     color:#f0e8a3;
     font:Arial;
-    font-size:80px;
+    font-size:90px;
     position: center;
 }
 .company-logo{
     height:200px;
-    width:200px;
+    width:250px;
     border: #f0e8a3;
     border-width: 3px;
+}
+.apartments-logo{
+    
 }
